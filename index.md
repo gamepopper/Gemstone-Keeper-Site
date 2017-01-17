@@ -20,7 +20,7 @@ The game will be available on Steam for Windows on March 31st 2017, watch this s
 # Trailers
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=gZBnDGzpYJo
 " target="_blank"><img src="http://img.youtube.com/vi/gZBnDGzpYJo/0.jpg" 
-alt="Gemstone Keeper Steam Greenlight Trailer" width="240" height="180" border="10" /></a>
+alt="Gemstone Keeper Steam Greenlight Trailer" width="240" height="180" border="2" /></a>
 
 # Screenshots
 ![Gemstone Keeper Underground](http://i.imgur.com/0OOLJbD.png)
@@ -28,4 +28,4 @@ alt="Gemstone Keeper Steam Greenlight Trailer" width="240" height="180" border="
 ![Gemstone Keeper Fire](http://i.imgur.com/21RCvIj.png)
 
 # Follow Us
-[![Twitter](http://i.imgur.com/WtfSBE6.png)](https://twitter.com/gamepopper)	[![Facebook](http://i.imgur.com/ilk0vwl.png)](https://www.facebook.com/GamepopperGames/)	[![IndieDB](http://i.imgur.com/4mPkE6X.png)](http://www.indiedb.com/games/gemstone-keeper)
+[![Twitter](http://i.imgur.com/WtfSBE6.png)](https://twitter.com/gamepopper)     [![Facebook](http://i.imgur.com/ilk0vwl.png)](https://www.facebook.com/GamepopperGames/)     [![IndieDB](http://i.imgur.com/4mPkE6X.png)](http://www.indiedb.com/games/gemstone-keeper)
