@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![](http://media.indiedb.com/images/presskit/1/1/105/GK_Header_1.png)
+![Gemstone Keeper Title Logo](http://i.imgur.com/dzbnSG7.gif)
 
 # What is Gemstone Keeper?
 
@@ -18,3 +18,7 @@ Gemstone Keeper is a 2D Topdown Dungeon Crawler where you explore caves and cave
 # Where can I find it?
 
 The game will be available on Steam for Windows on March 31st 2017, watch this space!
+
+![Gemstone Keeper Underground](http://i.imgur.com/0OOLJbD.png)
+![Gemstone Keeper Ice](http://i.imgur.com/lX0NnvD.png)
+![Gemstone Keeper Fire](http://i.imgur.com/21RCvIj.png)
