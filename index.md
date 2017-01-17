@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![](assets/images/GK-Title.gif)
+![](http://media.indiedb.com/images/presskit/1/1/105/GK_Header_1.png)
 
 # What is Gemstone Keeper?
 
