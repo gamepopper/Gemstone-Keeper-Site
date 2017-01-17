@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![](https://github.com/gamepopper/Gemstone-Keeper-Site/blob/master/assets/images/GK-Title.gif)
+![](assets/images/GK-Title.gif)
 
 # What is Gemstone Keeper?
 
