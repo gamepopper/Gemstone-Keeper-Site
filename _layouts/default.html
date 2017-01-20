@@ -6,12 +6,8 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <title>Gemstone Keeper</title>
   </head>
-  
-  <script src="gifv-player.min.js"></script>
-  <script>new GifvPlayer();</script>
 
   <body>
-
     <header>
       <div class="container">
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
@@ -26,6 +22,9 @@
         </section>
       </div>
     </header>
+	
+	<script src="gifv-player.min.js"></script>
+	<script>new GifvPlayer();</script>
 
     <div class="container">
       <section id="main_content">

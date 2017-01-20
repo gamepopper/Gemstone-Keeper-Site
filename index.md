@@ -18,18 +18,16 @@ Gemstone Keeper is a 2D Topdown Dungeon Crawler where you explore caves and cave
 The game will be available on Steam for Windows on March 31st 2017, watch this space!
 
 # Trailers
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=gZBnDGzpYJo
-" target="_blank"><img src="http://img.youtube.com/vi/gZBnDGzpYJo/0.jpg" 
-alt="Gemstone Keeper Steam Greenlight Trailer" width="240" height="180" border="2" /></a>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/gZBnDGzpYJo" frameborder="0" allowfullscreen></iframe>
 
 # Screenshots
 
 <div class="gifv-player">
-    <video preload="none" loop="loop" width="640" height="360">
+    <video preload="auto" loop="loop" width="640" height="360">
         <source type="video/webm" src="http://i.imgur.com/OtsPZUo.webm" />
         <source type="video/mp4" src="http://i.imgur.com/OtsPZUo.mp4" />
     </video>
-    <img src="http://i.imgur.com/0OOLJbD.png" width="640" height="360"
+    <img src="http://i.imgur.com/OtsPZUo.gif" width="640" height="360"
         data-gifv-original="http://i.imgur.com/OtsPZUo.gif" />
     <div class="gifv-player-overlay"></div>
 </div>
