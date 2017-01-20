@@ -18,7 +18,7 @@ Gemstone Keeper is a 2D Topdown Dungeon Crawler where you explore caves and cave
 The game will be available on Steam for Windows on March 31st 2017, watch this space!
 
 # Trailers
-<iframe width="640" height="360" src="https://www.youtube.com/embed/gZBnDGzpYJo" frameborder="0" allowfullscreen></iframe>
+<iframe width="600" height="338" src="https://www.youtube.com/embed/gZBnDGzpYJo" frameborder="0" allowfullscreen></iframe>
 
 # Screenshots
 
