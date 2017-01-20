@@ -23,6 +23,17 @@ The game will be available on Steam for Windows on March 31st 2017, watch this s
 alt="Gemstone Keeper Steam Greenlight Trailer" width="240" height="180" border="2" /></a>
 
 # Screenshots
+
+<div class="gifv-player">
+    <video preload="none" loop="loop" width="640" height="360">
+        <source type="video/webm" src="http://i.imgur.com/OtsPZUo.webm" />
+        <source type="video/mp4" src="http://i.imgur.com/OtsPZUo.mp4" />
+    </video>
+    <img src="http://i.imgur.com/0OOLJbD.png" width="640" height="360"
+        data-gifv-original="http://i.imgur.com/OtsPZUo.gif" />
+    <div class="gifv-player-overlay"></div>
+</div>
+
 ![Gemstone Keeper Underground](http://i.imgur.com/0OOLJbD.png)
 ![Gemstone Keeper Ice](http://i.imgur.com/lX0NnvD.png)
 ![Gemstone Keeper Fire](http://i.imgur.com/21RCvIj.png)
