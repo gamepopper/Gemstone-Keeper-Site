@@ -23,7 +23,7 @@ The game will be available on Steam for Windows on March 31st 2017, watch this s
 # Screenshots
 
 <div class="gifv-player">
-    <video preload="auto" loop="loop" width="640" height="360">
+    <video preload="auto" loop="loop" autoplay width="640" height="360">
         <source type="video/webm" src="http://i.imgur.com/OtsPZUo.webm" />
         <source type="video/mp4" src="http://i.imgur.com/OtsPZUo.mp4" />
     </video>
