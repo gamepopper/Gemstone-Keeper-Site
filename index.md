@@ -5,13 +5,12 @@ layout: default
 ![Gemstone Keeper Title Logo](http://i.imgur.com/dzbnSG7.gif)
 
 <div class="gifv-player">
-    <video preload="auto" loop="loop" autoplay width="600" height="338">
+    <video preload="auto" loop="loop" autoplay width="600" height="338"
+		poster="http://i.imgur.com/OtsPZUo.gif">
         <source type="video/webm" src="http://i.imgur.com/OtsPZUo.webm" />
         <source type="video/mp4" src="http://i.imgur.com/OtsPZUo.mp4" />
     </video>
-	<img src="http://i.imgur.com/OtsPZUo.png" width="600" height="338"
-        data-gifv-original="http://i.imgur.com/OtsPZUo.gif" />
-	<div class="gifv-player-overlay"></div>
+	GIFV is not supported :(
 </div>
 
 # What is Gemstone Keeper?
@@ -34,13 +33,12 @@ The game will be available on Steam for Windows on March 31st 2017, watch this s
 
 ![Gemstone Keeper Underground](http://i.imgur.com/0OOLJbD.png) ![Gemstone Keeper Ice](http://i.imgur.com/lX0NnvD.png) ![Gemstone Keeper Fire](http://i.imgur.com/21RCvIj.png) 
 <div class="gifv-player">
-    <video preload="auto" loop="loop" autoplay width="600" height="338">
+    <video preload="auto" loop="loop" autoplay width="600" height="338"
+		poster="http://i.imgur.com/dWUuUfK.gif">
         <source type="video/webm" src="http://i.imgur.com/dWUuUfK.webm" />
         <source type="video/mp4" src="http://i.imgur.com/dWUuUfK.mp4" />
     </video>
-	<img src="http://i.imgur.com/dWUuUfK.png" width="600" height="338"
-        data-gifv-original="http://i.imgur.com/dWUuUfK.gif" />
-	<div class="gifv-player-overlay"></div>
+	GIFV is not supported :(
 </div>
 
 # Follow Us
