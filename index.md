@@ -9,6 +9,8 @@ layout: default
         <source type="video/webm" src="http://i.imgur.com/OtsPZUo.webm" />
         <source type="video/mp4" src="http://i.imgur.com/OtsPZUo.mp4" />
     </video>
+	<img src="http://i.imgur.com/OtsPZUo.png" width="600" height="338"
+        data-gifv-original="http://i.imgur.com/OtsPZUo.gif" />
 	<div class="gifv-player-overlay"></div>
 </div>
 
@@ -36,6 +38,8 @@ The game will be available on Steam for Windows on March 31st 2017, watch this s
         <source type="video/webm" src="http://i.imgur.com/dWUuUfK.webm" />
         <source type="video/mp4" src="http://i.imgur.com/dWUuUfK.mp4" />
     </video>
+	<img src="http://i.imgur.com/dWUuUfK.png" width="600" height="338"
+        data-gifv-original="http://i.imgur.com/dWUuUfK.gif" />
 	<div class="gifv-player-overlay"></div>
 </div>
 
