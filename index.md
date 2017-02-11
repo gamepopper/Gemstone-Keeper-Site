@@ -10,7 +10,6 @@ layout: default
         <source type="video/webm" src="http://i.imgur.com/OtsPZUo.webm" />
         <source type="video/mp4" src="http://i.imgur.com/OtsPZUo.mp4" />
     </video>
-	GIFV is not supported :(
 </div>
 
 # What is Gemstone Keeper?
@@ -38,7 +37,6 @@ The game will be available on Steam for Windows on March 31st 2017, watch this s
         <source type="video/webm" src="http://i.imgur.com/dWUuUfK.webm" />
         <source type="video/mp4" src="http://i.imgur.com/dWUuUfK.mp4" />
     </video>
-	GIFV is not supported :(
 </div>
 
 # Follow Us
