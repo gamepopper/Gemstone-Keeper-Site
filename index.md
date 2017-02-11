@@ -30,14 +30,23 @@ The game will be available on Steam for Windows on March 31st 2017, watch this s
 
 # Screenshots
 
-![Gemstone Keeper Underground](http://i.imgur.com/0OOLJbD.png) ![Gemstone Keeper Ice](http://i.imgur.com/lX0NnvD.png) ![Gemstone Keeper Fire](http://i.imgur.com/21RCvIj.png) 
+![Gemstone Keeper Underground](http://i.imgur.com/0OOLJbD.png)
 <div class="gifv-player">
     <video preload="auto" loop="loop" autoplay width="600" height="338"
-		poster="http://i.imgur.com/dWUuUfK.gif">
-        <source type="video/webm" src="http://i.imgur.com/dWUuUfK.webm" />
-        <source type="video/mp4" src="http://i.imgur.com/dWUuUfK.mp4" />
+		poster="http://i.imgur.com/10fsZ54.gif">
+        <source type="video/webm" src="http://i.imgur.com/10fsZ54.webm" />
+        <source type="video/mp4" src="http://i.imgur.com/10fsZ54.mp4" />
     </video>
 </div>
+![Gemstone Keeper Ice](http://i.imgur.com/lX0NnvD.png)
+<div class="gifv-player">
+    <video preload="auto" loop="loop" autoplay width="600" height="338"
+		poster="http://i.imgur.com/BZJstnH.gif">
+        <source type="video/webm" src="http://i.imgur.com/BZJstnH.webm" />
+        <source type="video/mp4" src="http://i.imgur.com/BZJstnH.mp4" />
+    </video>
+</div>
+![Gemstone Keeper Fire](http://i.imgur.com/21RCvIj.png) 
 
 # Follow Us
 [![Twitter](http://i.imgur.com/WtfSBE6.png)](https://twitter.com/gamepopper)     [![Facebook](http://i.imgur.com/ilk0vwl.png)](https://www.facebook.com/GamepopperGames/)     [![IndieDB](http://i.imgur.com/4mPkE6X.png)](http://www.indiedb.com/games/gemstone-keeper)
