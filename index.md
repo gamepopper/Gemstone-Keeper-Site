@@ -4,7 +4,7 @@ layout: default
 
 ![Gemstone Keeper Title Logo](http://i.imgur.com/dzbnSG7.gif)
 
-<iframe width="600" height="338" src="https://www.youtube.com/watch?v=mVnMpCjsiyI" frameborder="0" allowfullscreen></iframe>
+<iframe width="600" height="338" src="https://www.youtube.com/embed/mVnMpCjsiyI" frameborder="0" allowfullscreen></iframe>
 
 # What is Gemstone Keeper?
 Gemstone Keeper is a 2D Topdown Dungeon Crawler where you explore caves and caverns, defending yourself against the creatures that reside and go as deep as you can to collect the rare and hard to find gemstones. Any minerals and gems you find deep in the caverns will earn you enough money to afford better weapons, items and other advantages to go as far down as possible to find the rarest and elusive stones to become the ultimate Gemstone Keeper.
