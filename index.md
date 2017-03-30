@@ -16,8 +16,8 @@ Gemstone Keeper is a 2D Topdown Dungeon Crawler where you explore caves and cave
 * Daily Run Leaderboards
 
 # Where can I find it?
-[![Steam Greenlight](http://i.imgur.com/uj8mh9n.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=661135046) 
-The game will be available on Steam for Windows on March 31st 2017, watch this space!
+
+Gemstone Keeper will launch at 6pm GMT on March 31st 2017. Available on the [Steam Store](http://store.steampowered.com/app/522080).
 
 # Videos
 <iframe width="600" height="338" src="https://www.youtube.com/embed/gZBnDGzpYJo" frameborder="0" allowfullscreen></iframe>
