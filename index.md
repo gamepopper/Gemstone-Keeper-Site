@@ -28,16 +28,16 @@ Available on the [Steam Store](http://store.steampowered.com/app/522080).
 
 <div class="gifv-player">
     <video preload="auto" loop="loop" autoplay width="600" height="338"
-		poster="http://i.imgur.com/prEWNzt.gif">
-        <source type="video/webm" src="http://i.imgur.com/prEWNzt.webm" />
-        <source type="video/mp4" src="http://i.imgur.com/prEWNzt.mp4" />
+		poster="http://i.imgur.com/ajrVcHB.gif">
+        <source type="video/webm" src="http://i.imgur.com/ajrVcHB.webm" />
+        <source type="video/mp4" src="http://i.imgur.com/ajrVcHB.mp4" />
     </video>
 </div>
 <div class="gifv-player">
     <video preload="auto" loop="loop" autoplay width="600" height="338"
-		poster="http://i.imgur.com/10fsZ54.gif">
-        <source type="video/webm" src="http://i.imgur.com/10fsZ54.webm" />
-        <source type="video/mp4" src="http://i.imgur.com/10fsZ54.mp4" />
+		poster="http://i.imgur.com/prEWNzt.gif">
+        <source type="video/webm" src="http://i.imgur.com/prEWNzt.webm" />
+        <source type="video/mp4" src="http://i.imgur.com/prEWNzt.mp4" />
     </video>
 </div>
 <div class="gifv-player">
@@ -59,13 +59,6 @@ Available on the [Steam Store](http://store.steampowered.com/app/522080).
 		poster="http://i.imgur.com/oWoIdL7.gif">
         <source type="video/webm" src="http://i.imgur.com/oWoIdL7.webm" />
         <source type="video/mp4" src="http://i.imgur.com/oWoIdL7.mp4" />
-    </video>
-</div>
-<div class="gifv-player">
-    <video preload="auto" loop="loop" autoplay width="600" height="338"
-		poster="http://i.imgur.com/ajrVcHB.gif">
-        <source type="video/webm" src="http://i.imgur.com/ajrVcHB.webm" />
-        <source type="video/mp4" src="http://i.imgur.com/ajrVcHB.mp4" />
     </video>
 </div>
 
