@@ -26,7 +26,13 @@ Available on the [Steam Store](http://store.steampowered.com/app/522080).
 
 # Screenshots
 
-![Gemstone Keeper Underground](http://i.imgur.com/0OOLJbD.png)
+<div class="gifv-player">
+    <video preload="auto" loop="loop" autoplay width="600" height="338"
+		poster="http://i.imgur.com/prEWNzt.gif">
+        <source type="video/webm" src="http://i.imgur.com/prEWNzt.webm" />
+        <source type="video/mp4" src="http://i.imgur.com/prEWNzt.mp4" />
+    </video>
+</div>
 <div class="gifv-player">
     <video preload="auto" loop="loop" autoplay width="600" height="338"
 		poster="http://i.imgur.com/10fsZ54.gif">
@@ -34,7 +40,13 @@ Available on the [Steam Store](http://store.steampowered.com/app/522080).
         <source type="video/mp4" src="http://i.imgur.com/10fsZ54.mp4" />
     </video>
 </div>
-![Gemstone Keeper Ice](http://i.imgur.com/lX0NnvD.png)
+<div class="gifv-player">
+    <video preload="auto" loop="loop" autoplay width="600" height="338"
+		poster="http://i.imgur.com/24gcQz8.gif">
+        <source type="video/webm" src="http://i.imgur.com/24gcQz8.webm" />
+        <source type="video/mp4" src="http://i.imgur.com/24gcQz8.mp4" />
+    </video>
+</div>
 <div class="gifv-player">
     <video preload="auto" loop="loop" autoplay width="600" height="338"
 		poster="http://i.imgur.com/l8iDk2D.gif">
@@ -42,14 +54,14 @@ Available on the [Steam Store](http://store.steampowered.com/app/522080).
         <source type="video/mp4" src="http://i.imgur.com/l8iDk2D.mp4" />
     </video>
 </div>
-![Gemstone Keeper Fire](http://i.imgur.com/21RCvIj.png)
 <div class="gifv-player">
     <video preload="auto" loop="loop" autoplay width="600" height="338"
-		poster="http://i.imgur.com/OtsPZUo.gif">
-        <source type="video/webm" src="http://i.imgur.com/OtsPZUo.webm" />
-        <source type="video/mp4" src="http://i.imgur.com/OtsPZUo.mp4" />
+		poster="http://i.imgur.com/ajrVcHB.gif">
+        <source type="video/webm" src="http://i.imgur.com/ajrVcHB.webm" />
+        <source type="video/mp4" src="http://i.imgur.com/ajrVcHB.mp4" />
     </video>
 </div>
+![Gemstone Keeper Fire](http://i.imgur.com/21RCvIj.png)
 
 # Follow Us
 [![Twitter](http://i.imgur.com/WtfSBE6.png)](https://twitter.com/gamepopper)     [![Facebook](http://i.imgur.com/ilk0vwl.png)](https://www.facebook.com/GamepopperGames/)     [![IndieDB](http://i.imgur.com/4mPkE6X.png)](http://www.indiedb.com/games/gemstone-keeper)
