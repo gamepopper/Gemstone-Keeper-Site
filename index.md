@@ -49,16 +49,16 @@ Available on the [Steam Store](http://store.steampowered.com/app/522080).
 </div>
 <div class="gifv-player">
     <video preload="auto" loop="loop" autoplay width="600" height="338"
-		poster="http://i.imgur.com/ajrVcHB.gif">
-        <source type="video/webm" src="http://i.imgur.com/ajrVcHB.webm" />
-        <source type="video/mp4" src="http://i.imgur.com/ajrVcHB.mp4" />
+		poster="http://i.imgur.com/VX5PvLd.gif">
+        <source type="video/webm" src="http://i.imgur.com/VX5PvLd.webm" />
+        <source type="video/mp4" src="http://i.imgur.com/VX5PvLd.mp4" />
     </video>
 </div>
 <div class="gifv-player">
     <video preload="auto" loop="loop" autoplay width="600" height="338"
-		poster="http://i.imgur.com/VX5PvLd.gif">
-        <source type="video/webm" src="http://i.imgur.com/VX5PvLd.webm" />
-        <source type="video/mp4" src="http://i.imgur.com/VX5PvLd.mp4" />
+		poster="http://i.imgur.com/ajrVcHB.gif">
+        <source type="video/webm" src="http://i.imgur.com/ajrVcHB.webm" />
+        <source type="video/mp4" src="http://i.imgur.com/ajrVcHB.mp4" />
     </video>
 </div>
 
