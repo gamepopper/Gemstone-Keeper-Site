@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Gemstone Keeper Title Logo](http://i.imgur.com/dzbnSG7.gif)
+![Gemstone Keeper Title Logo](/assets/images/GK-Title.gif)
 
 <iframe width="600" height="338" src="https://www.youtube.com/embed/mVnMpCjsiyI" frameborder="0" allowfullscreen></iframe>
 
