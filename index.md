@@ -31,7 +31,7 @@ Gemstone Keeper is a 2D Topdown Dungeon Crawler where you explore caves and cave
 Available on the [Steam Store](http://store.steampowered.com/app/522080).
 
 # Videos
-<iframe width="600" height="338" src="https://www.youtube.com/embed/gZBnDGzpYJo" frameborder="0" allowfullscreen></iframe>
+<iframe width="600" height="338" src="https://www.youtube.com/embed/J2J_XP-xQtk" frameborder="0" allowfullscreen></iframe>
 
 # Screenshots
 
