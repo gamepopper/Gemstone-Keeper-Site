@@ -24,7 +24,7 @@ Gemstone Keeper is a 2D Topdown Dungeon Crawler where you explore caves and cave
 
 ![Nintendo Switch](/assets/images/Switch.jpg)
 
-**COMING SOON** Nintendo Switch
+**COMING SOON** Nintendo Switch on November 27th!
 
 [![Steam](/assets/images/Steam.png)](http://store.steampowered.com/app/522080)
 
