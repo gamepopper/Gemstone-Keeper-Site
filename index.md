@@ -6,6 +6,8 @@ layout: default
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/J2J_XP-xQtk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+![Nintendo Switch](/assets/images/Switch.jpg)
+
 # What is Gemstone Keeper?
 Gemstone Keeper is a 2D Topdown Dungeon Crawler where you explore caves and caverns, defending yourself against the creatures that reside and go as deep as you can to collect the rare and hard to find gemstones. Any minerals and gems you find deep in the caverns will earn you enough money to afford better weapons, items and other advantages to go as far down as possible to find the rarest and elusive stones to become the ultimate Gemstone Keeper.
 
@@ -22,18 +24,20 @@ Gemstone Keeper is a 2D Topdown Dungeon Crawler where you explore caves and cave
 
 # Where can I find it?
 
-![Nintendo Switch](/assets/images/Switch.jpg)
-
-**COMING SOON** Nintendo Switch on November 27th!
+[![Nintendo eShop](/assets/images/SwitchLogo.png)](https://www.nintendo.com/games/detail/gemstone-keeper-switch/)
 
 [![Steam](/assets/images/Steam.png)](http://store.steampowered.com/app/522080)
 
 Available on the [Steam Store](http://store.steampowered.com/app/522080).
 
 # Videos
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=RZ0H663vTFc?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=mVnMpCjsiyI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Screenshots
+
+[Nintendo Switch Screenshots](https://imgur.com/a/NGuFhhF)
+
+# GIFs
 
 <div class="gifv-player">
     <video preload="auto" loop="loop" autoplay width="600" height="338"
